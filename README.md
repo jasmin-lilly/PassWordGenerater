@@ -16,7 +16,8 @@ Clone or Download the Repository:
 You can clone this repository using Git or download the ZIP file to your local machine.
 
 
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/jasmin-lilly/PassWordGenerater
+
 Run the Application:
 Compile the Java files:
 
